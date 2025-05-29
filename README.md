@@ -5,11 +5,11 @@ I am a AI Engineer
 ## Technology Stack 🛠️
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,php,py,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,py,sklearn,tensorflow" />
   </a>
 </div>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flask,mysql,figma" />
+    <img src="https://skillicons.dev/icons?i=anaconda,flask,prometheus,grafana,mysql,vscode,figma" />
   </a>
 </div>
