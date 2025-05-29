@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**ftriaa/ftriaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a AI Engineer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technology Stack 🛠️
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,php,py,bootstrap" />
+  </a>
+</div>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flask,mysql,figma" />
+  </a>
+</div>
