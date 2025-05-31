@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm an AI Engineer who enjoys exploring machine learning and deep learning, building intelligent solutions, and continuously learning new things every day.
+I’m a data enthusiast passionate about exploring machine learning and deep learning, building smart solutions, and continuously learning something new every day.
 
 ## 🛠️ Tech Stack
 <div align="center">
