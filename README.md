@@ -5,7 +5,7 @@ I’m a data enthusiast passionate about exploring machine learning and deep lea
 ## 🛠️ Tech Stack
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,py,sklearn,tensorflow,anaconda,flask,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,py,sklearn,pytorch,tensorflow,anaconda,flask,mysql" />
   </a>
 </div>
 <div align="center">
