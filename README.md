@@ -1,4 +1,4 @@
-## Hello there 👋
+## 👋 Hello, I'm Fitria!
 
 I'm a **Data Science & AI Enthusiast** with a background in Information Systems. I enjoy building intelligent systems, analyzing data, and exploring how machines can mimic human reasoning through AI.
 
