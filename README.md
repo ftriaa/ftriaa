@@ -7,7 +7,7 @@ I'm a **Data Science & AI Enthusiast** with a background in Information Systems.
 ## 📌 About Me
 - 🎓 Information Systems graduate with hands-on experience in Data Science and AI projects (CV, NLP, time series, MLOps)
 - 🧠 Fascinated by how AI can simulate human thought and decision-making
-- 🛠️ Love creating solutions from raw data — from cleaning to modeling and deployment
+- 🛠️ Love creating solutions from raw data from cleaning to modeling and deployment
 - 🌱 Currently learning more about LLMs, MLOps, and deep learning productization
 - 💬 Open to internships, collaborations, and freelance opportunities in AI & data
 
